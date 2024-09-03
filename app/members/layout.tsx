@@ -9,7 +9,7 @@ export default function Layout({ children }: Props) {
   return (
     <>
       <Hero title="Members" sub="メンバー紹介" />
-      <Sheet>{children}</Sheet>;
+      <Sheet>{children}</Sheet>
     </>
   );
 }
