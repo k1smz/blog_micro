@@ -4,5 +4,5 @@
   border-radius: var(--border-radius);
   white-space: nowrap;
   font-size: 1rem;
-  margin: auto;
+  margin: auto 0;
 }
